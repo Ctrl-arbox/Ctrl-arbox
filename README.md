@@ -17,7 +17,6 @@
 ## 📈 GitHub Stats  
 ![Abhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ctrl-arbox&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctrl-arbox&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ctrl-arbox&theme=dark)  
 
 ## 🏆 GitHub Trophies  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Ctrl-arbox&theme=onedark&margin-w=15)  
